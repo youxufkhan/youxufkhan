@@ -17,7 +17,7 @@ jobs:
           user: youxufkhan
           template: classic
           base: header, activity, community, repositories, metadata
-          config_output: png
+          config_output: svg
           config_display: columns
           config_octicon: yes
           config_timezone: Asia/Karachi
