@@ -14,7 +14,7 @@ As a JavaScript Full Stack Developer with a bachelor’s degree in computer scie
 
 
 <b>My GitHub Stats</b>
-<p align="center"><picture><img src="/github-metrics.svg" alt="Metrics" width="100%></picture></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%></p>
 
 <b>LeetCode</b>
 
