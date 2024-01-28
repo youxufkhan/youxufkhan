@@ -36,9 +36,9 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            138 Commits
+                            139 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    405k added, 49.7k removed
                                 </div>
                             </section>
                             <section>
@@ -291,12 +291,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 8 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.4 characters per line of code written</li>
+                        <li>Has approximately 36.8 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -319,6 +319,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Tanha Dil</div>
+                                    <div class="artist">Shaan</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Made in India</div>
@@ -339,20 +346,13 @@
                                     <div class="artist">Adnan Sami</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Channa Vey</div>
-                                    <div class="artist">Kunal Ganjawala</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2024, 17:00:22 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2024, 17:06:21 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
