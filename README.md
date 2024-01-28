@@ -14,7 +14,7 @@ As a JavaScript Full Stack Developer with a bachelor’s degree in computer scie
 
 
 <b>My GitHub Stats</b>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%></p>
+<p align="center" ><img class="svg" src="/github-metrics.svg" alt="Metrics" width="100%></p>
 
 <b>LeetCode</b>
 
@@ -27,3 +27,11 @@ As a JavaScript Full Stack Developer with a bachelor’s degree in computer scie
 
 [![youxufkhan profile views](https://u8views.com/api/v1/github/profiles/32437099/views/day-week-month-total-count.svg)](https://u8views.com/github/youxufkhan)
 
+<style>
+  .svg {
+    max-height: 100%; /* Adjust the max-height as needed */
+    width: auto;
+    display: block;
+    margin: 0 auto; /* This will center the SVG */
+  }
+</style>
