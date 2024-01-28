@@ -13,13 +13,8 @@ As a JavaScript Full Stack Developer with a bachelor’s degree in computer scie
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,angular,mysql,postgres,mongodb,redis,rabbitmq,docker,aws,git,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 
-### Badges
-
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/youxufkhan"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youxufkhan&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="youxufkhan's GitHub stats" /></a>
-
-<a href="https://github.com/youxufkhan"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxufkhan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&size_weight=0&count_weight=0.5" alt="Top Languages" /></a>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <b>LeetCode</b>
 
