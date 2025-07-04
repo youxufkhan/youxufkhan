@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend JavaScript Developer
 ----------------------------
 
-As a JavaScript Full Stack Developer with a bachelor’s degree in computer science and over four years of industry experience, I lead the development of web applications using various frontend and backend technologies at a reputable firm. I have hands-on experience with JavaScript frameworks such as Angular, React, Ionic, Express, Fastify and Node.js, as well as backend technologies such as PHP, Yii2, CodeIgniter, MySQL, pgSQL and MongoDB. I am a dedicated and reliable professional who always strives to deliver high-quality work. I am passionate about the future of web development and eager to learn new skills and technologies.
+As a JavaScript Full Stack Developer with a bachelor’s degree in computer science and over seven years of industry experience, I lead the development of web applications using various frontend and backend technologies at a reputable firm. I have hands-on experience with JavaScript frameworks such as Angular, React, Ionic, Express, Fastify and Node.js, as well as backend technologies such as PHP, Yii2, CodeIgniter, MySQL, pgSQL and MongoDB. I am a dedicated and reliable professional who always strives to deliver high-quality work. I am passionate about the future of web development and eager to learn new skills and technologies.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [m.youxuf@gmail.com](mailto:m.youxuf@gmail.com)
