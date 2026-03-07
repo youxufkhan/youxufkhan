@@ -146,8 +146,8 @@ const yousuf = {
 
 <!-- Footer -->
 <br>
-
 <div align="center">
+  <a href="https://u8views.com/github/youxufkhan"><img src="https://u8views.com/api/v1/github/profiles/32437099/views/day-week-month-total-count.svg"></a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
   
 </div>
