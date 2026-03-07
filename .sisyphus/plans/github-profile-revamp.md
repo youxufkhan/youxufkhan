@@ -245,7 +245,9 @@ Wave 1 (Sequential - only 2 tasks):
 
 ## Final Verification Wave
 
-- [ ] F1. **Workflow Validation** — Run workflow manually and verify all SVGs generate without errors
+- [x] F1. **Workflow Validation** — Run workflow manually and verify all SVGs generate without errors
+- [ ] F2. **Profile Render Check** — Verify profile displays correctly on GitHub (browser QA)
+- [x] F3. **Content Verification** — Confirm LeetCode and YouTube Music are completely removed
 - [ ] F2. **Profile Render Check** — Verify profile displays correctly on GitHub (browser QA)
 - [ ] F3. **Content Verification** — Confirm LeetCode and YouTube Music are completely removed
 
