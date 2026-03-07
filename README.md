@@ -114,7 +114,7 @@ const yousuf = {
   <img src="profile/trophy.svg" alt="Trophies" width="100%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="profile/stats.svg" alt="Stats" width="49%" />
   <img src="profile/streak.svg" alt="Streak" width="49%" />
 </div>
@@ -123,7 +123,7 @@ const yousuf = {
   <img src="profile/langs.svg" alt="Top Languages" width="49%" />
 </div>
 <!-- Featured Projects Section -->
-## 🚀 Featured Projects
+## 🚀 Featured Projects -->
 
 <div align="center">
   <a href="https://github.com/youxufkhan">
