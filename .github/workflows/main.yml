@@ -34,13 +34,13 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Karachi
 
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # plugin_habits: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_from: 200
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -75,7 +75,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: youxufkhan
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
       # -----------------------
@@ -84,7 +84,7 @@ jobs:
       - name: Generate Stats Card
         run: |
           mkdir -p profile
-          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=youxufkhan&show_icons=true&theme=tokyonight&hide_border=true"
+          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=youxufkhan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
 
       - name: Generate Streak Card
         run: |
@@ -92,7 +92,7 @@ jobs:
 
       - name: Generate Top Languages
         run: |
-          curl -o profile/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=youxufkhan&layout=compact&theme=tokyonight&hide_border=true"
+          curl -o profile/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=youxufkhan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
 
       # -----------------------
       # Commit Updates
@@ -103,4 +103,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add .
           git commit -m "Update GitHub profile metrics" || exit 0
+          git pull --rebase
           git push
