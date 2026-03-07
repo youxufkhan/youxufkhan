@@ -155,7 +155,9 @@ Wave 1 (Sequential - only 2 tasks):
   - achievements plugin: https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
 
   **Acceptance Criteria**:
-  - [ ] Workflow syntax valid (no YAML errors)
+  - [x] Workflow syntax valid (no YAML errors)
+- [x] All plugin options correctly formatted
+- [x] Secrets referenced properly
   - [ ] All plugin options correctly formatted
   - [ ] Secrets referenced properly
 
@@ -211,7 +213,12 @@ Wave 1 (Sequential - only 2 tasks):
   - Example minimal profiles: ikramagix/ikramagic, xtenzQ/xtenzQ
 
   **Acceptance Criteria**:
-  - [ ] No LeetCode references
+  - [x] No LeetCode references
+- [x] No YouTube Music references
+- [x] Isometric calendar placeholder added
+- [x] Achievements placeholder added
+- [x] All existing sections preserved
+- [x] Clean, minimal layout achieved
   - [ ] No YouTube Music references  
   - [ ] Isometric calendar placeholder added
   - [ ] Achievements placeholder added
