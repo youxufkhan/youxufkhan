@@ -105,8 +105,23 @@ const yousuf = {
 </div>
 
 ### GitHub Stats
+
 <p align="center" >  <img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%" style="max-height:100%;height:100% "></p>
 
+## 🏆 Profile Trophies & Stats
+
+<div align="center">
+  <img src="profile/trophy.svg" alt="Trophies" width="100%" />
+</div>
+
+<div align="center">
+  <img src="profile/stats.svg" alt="Stats" width="49%" />
+  <img src="profile/streak.svg" alt="Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="profile/langs.svg" alt="Top Languages" width="49%" />
+</div>
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
