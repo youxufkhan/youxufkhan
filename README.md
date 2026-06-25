@@ -121,15 +121,43 @@ const yousuf = {
 
 <div align="center">
   <img src="profile/langs.svg" alt="Top Languages" width="49%" />
-</div>
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects -->
+</div> -->
 
-<div align="center">
-  <a href="https://github.com/youxufkhan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youxufkhan&repo=youxufkhan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Pinned Repo" />
-  </a>
-</div>
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🌐 <a href="https://nexusbridge.isroot.in/">NexusBridge</a></h3>
+        <p><b>eCommerce Agency Command Center</b></p>
+        <a href="https://nexusbridge.isroot.in/"><img src="https://img.shields.io/badge/Live%20Demo-nexusbridge.isroot.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NexusBridge Demo" /></a>
+        <br><br>
+      </div>
+      <ul>
+        <li><b>Centralized Portal:</b> Manage multi-client stores under one login.</li>
+        <li><b>Automated Sync:</b> Real-time order ingestion from Amazon, Walmart, and TikTok Shop.</li>
+        <li><b>Smart Stock:</b> Multi-warehouse inventory sync to prevent overselling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💼 <a href="https://operza.isroot.in/">Operza</a></h3>
+        <p><b>Automated HR Management System</b></p>
+        <a href="https://operza.isroot.in/"><img src="https://img.shields.io/badge/Live%20Demo-operza.isroot.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Operza Demo" /></a>
+        <br><br>
+      </div>
+      <ul>
+        <li><b>Flexible Rostering:</b> Profile staff without provisioning credentials.</li>
+        <li><b>Time Tracking:</b> One-click check-ins with shifts and buffer rules.</li>
+        <li><b>Policy Breaches:</b> Auto-logs late check-ins, early leaves, and absences.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Connect With Me Section -->
 ## 🤝 Let's Connect
