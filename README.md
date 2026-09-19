@@ -26,7 +26,7 @@
 const yousuf = {
   role: "Backend JavaScript Developer",
   location: "Karachi, Pakistan 📍",
-  experience: "7+ years",
+  experience: "8+ years",
   education: "BS Computer Science 🎓",
   passion: ["Building scalable APIs", "Clean Architecture", "Open Source"],
   currentlyLearning: "Cloud Native Technologies ☁️",
