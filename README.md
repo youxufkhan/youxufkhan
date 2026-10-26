@@ -163,6 +163,30 @@ const yousuf = {
 
 <br>
 
+<!-- Support on Patreon Section -->
+## ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.patreon.com/c/youxufkhan" target="_blank">
+    <img src="assets/patreon-profile.jpeg" alt="Yousuf Khan on Patreon" width="120" style="border-radius: 50%;" />
+  </a>
+  <br><br>
+  <a href="https://www.patreon.com/c/youxufkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Support_on_Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
+  </a>
+</div>
+
+<br>
+
+I build open-source tools and share what I learn along the way. If any of my projects or guides have saved you time, consider supporting me on [Patreon](https://www.patreon.com/c/youxufkhan). It helps me spend more time writing code, maintaining projects, and putting out tutorials instead of chasing freelance hours.
+
+- **\$3/month** — Ongoing supporter. Helps fund development time.
+- **\$5 one-time** — Buy me a coffee. No commitment.
+
+Every bit counts. Thanks for being here. 🙏
+
+<br>
+
 <!-- Connect With Me Section -->
 ## 🤝 Let's Connect
 
@@ -185,6 +209,10 @@ const yousuf = {
   &nbsp;
   <a href="https://www.stackoverflow.com/users/9066939/yousuf-khan" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  &nbsp;
+  <a href="https://www.patreon.com/c/youxufkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
 </div>
 
