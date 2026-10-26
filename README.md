@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Karachi,%20Pakistan-00D9FF?style=for-the-badge&color=0891b2" alt="Location" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
+  &nbsp;
+  <a href="https://yousufkhan.uk"><img src="https://img.shields.io/badge/Website-yousufkhan.uk-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website: yousufkhan.uk" /></a>
 </div>
 
 <br>
@@ -35,6 +37,8 @@ const yousuf = {
 ```
 
 > 💼 **Leading web application development** at a reputable firm, crafting robust solutions with modern JavaScript ecosystems.
+
+> 🌐 Services, case studies and contact details: **[yousufkhan.uk](https://yousufkhan.uk)**
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
@@ -163,6 +167,10 @@ const yousuf = {
 ## 🤝 Let's Connect
 
 <div align="center">
+  <a href="https://yousufkhan.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website: yousufkhan.uk" />
+  </a>
+  &nbsp;
   <a href="mailto:m.youxuf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
