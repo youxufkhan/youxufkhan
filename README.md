@@ -133,6 +133,42 @@ const yousuf = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://preen.yousufkhan.uk/">
+        <img src="assets/preen-card.svg" alt="Preen - Linux System Utility" width="100%" />
+      </a>
+      <div align="center">
+        <br>
+        <a href="https://preen.yousufkhan.uk/"><img src="https://img.shields.io/badge/Live%20Demo-preen.yousufkhan.uk-00e699?style=for-the-badge&logo=google-chrome&logoColor=04121a" alt="Preen Live Demo" /></a>
+        &nbsp;
+        <a href="https://github.com/youxufkhan/preen"><img src="https://img.shields.io/badge/GitHub-youxufkhan%2Fpreen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Preen GitHub Repo" /></a>
+        <br><br>
+      </div>
+      <ul>
+        <li><b>System cleaner:</b> Cleans build artifacts, package manager caches, logs, and old kernels.</li>
+        <li><b>Package manager:</b> Uninstalls apt, snap, Flatpak, and AppImage packages with residual cleanup.</li>
+        <li><b>Resource monitor:</b> Displays CPU load, memory distribution, thermal sensors, and storage use without background daemons.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://carozerra.yousufkhan.uk/">
+        <img src="assets/carozerra-card.svg" alt="Carozerra - Pioneer OEL Decoder" width="100%" />
+      </a>
+      <div align="center">
+        <br>
+        <a href="https://carozerra.yousufkhan.uk/"><img src="https://img.shields.io/badge/Live%20Demo-carozerra.yousufkhan.uk-12e0ff?style=for-the-badge&logo=google-chrome&logoColor=04121a" alt="Carozerra Live Demo" /></a>
+        &nbsp;
+        <a href="https://github.com/youxufkhan/carozerra"><img src="https://img.shields.io/badge/GitHub-youxufkhan%2Fcarozerra-181717?style=for-the-badge&logo=github&logoColor=white" alt="Carozerra GitHub Repo" /></a>
+        <br><br>
+      </div>
+      <ul>
+        <li><b>Binary decoder:</b> Unpacks Pioneer .lkd screensaver archives into playable bitmap sequences.</li>
+        <li><b>Web and desktop:</b> Runs client-side in browsers, as an Android app, or as a native Linux desktop visualizer.</li>
+        <li><b>Export engine:</b> Renders 83 preloaded animations and exports them to animated GIFs.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <div align="center">
         <h3>🌐 <a href="https://nexusbridge.isroot.in/">NexusBridge</a></h3>
         <p><b>eCommerce Agency Command Center</b></p>
